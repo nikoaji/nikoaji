@@ -24,11 +24,10 @@
             <p> I love you evrything about you</p>
             <p> berysukur selamanya sampe kapanpun sama kamu</p>
             <p> you're special day,and happiness 🐣🥰 </p>
-            <p> make a wish, harapan sayang yaw di chat habis buka ini 🧡 I</p>
+            <p> make a wish, harapan sayang yaw di chat habis buka ini 🧡 </p>
             <p> semangattttt,jaga kesehatan selalu sayangku </p>
             <p> lancar semuanya dan happiness till and with me. Allahu Yuftah Alaikum Aamiin 💜🤗.</p>
-
-            <p>How do you do that? :)</p>
+<p> ayaflu mi amor ❤️🐣 </p>
             <p class="text-right">Happy Birthday, ajiku sayang 21! 🤍✨</p>
             <p class="text-right">niko jeleknya ajiku🐣</p>
         </div>
