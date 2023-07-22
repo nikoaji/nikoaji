@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,9 +8,7 @@
     <link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <title>HBD sayangku azhimur rahmah thahir❣🐣</title>
-</head>
-
-<body>
+</head> <body>
     <div class="card">
         <div class="imgBox">
             <div class="bark"></div>
